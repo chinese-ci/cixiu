@@ -1,0 +1,603 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "groups": [
+    {
+      "name": "下里巴人",
+      "categories": [
+        {
+          "name": "日常口语",
+          "slug": "daily_spoken",
+          "files": [
+            {
+              "name": "口头语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "语气词",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "称谓",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "生活服务",
+          "slug": "life",
+          "files": [
+            {
+              "name": "饮食",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "服饰",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "家居",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "美容",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "购物",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "家政",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "成语熟语",
+          "slug": "idioms",
+          "files": [
+            {
+              "name": "成语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "俗语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "歇后语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "惯用语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "诗词名句",
+              "planned": true,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "新词",
+          "slug": "newwords",
+          "files": [
+            {
+              "name": "科技新词",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "行业新词",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "社会新词",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "网络新词",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "网络梗",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "方言",
+          "slug": "dialects",
+          "files": [
+            {
+              "name": "北方方言",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "吴方言",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "粤方言",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "闽方言",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "游戏电竞",
+          "slug": "games",
+          "files": [
+            {
+              "name": "单机游戏",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "网络游戏",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "手机游戏",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "电竞",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "游戏术语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "动漫二次元",
+          "slug": "anime",
+          "files": [
+            {
+              "name": "动漫作品",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "角色",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "ACG术语",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "影视娱乐",
+          "slug": "entertainment",
+          "files": [
+            {
+              "name": "影视作品",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "音乐",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "明星",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "娱乐八卦",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "阳春白雪",
+      "categories": [
+        {
+          "name": "政治",
+          "slug": "politics",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "法律、司法",
+          "slug": "law",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "对外关系、国际关系",
+          "slug": "foreign",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "军事",
+          "slug": "military",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "社会、劳动",
+          "slug": "society",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "灾难、事故",
+          "slug": "disaster",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "经济",
+          "slug": "economy",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "财政、金融",
+          "slug": "finance",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "基本建设、建筑业、房地产",
+          "slug": "construction",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "农业、农村",
+          "slug": "agriculture",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "矿业、工业",
+          "slug": "industry",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "能源、水务、水利",
+          "slug": "energy",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "电子信息产业",
+          "slug": "electronics",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "交通运输、邮政、物流",
+          "slug": "transport",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "商业、外贸、海关",
+          "slug": "commerce",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "服务业、旅游业",
+          "slug": "services",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "环境、气象",
+          "slug": "environment",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "教育",
+          "slug": "education",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "科学技术",
+          "slug": "science",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "文化、休闲娱乐",
+          "slug": "culture",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "文学、艺术",
+          "slug": "literature",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "传媒",
+          "slug": "media",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "医药、卫生",
+          "slug": "medicine",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "体育",
+          "slug": "sports",
+          "files": [
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        },
+        {
+          "name": "地名",
+          "slug": "places",
+          "files": [
+            {
+              "name": "行政区划",
+              "planned": false,
+              "standard": "GB/T 2260"
+            },
+            {
+              "name": "道路",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "机构",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "风景名胜",
+              "planned": false,
+              "standard": null
+            },
+            {
+              "name": "国外地名",
+              "planned": false,
+              "standard": "GB/T 2659"
+            },
+            {
+              "name": "其它",
+              "planned": false,
+              "standard": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "basis": [
+    {
+      "standard": "GB/T 20093-2022",
+      "use": "阳春白雪 24 个一级类目及顺序",
+      "excluded": "367 个二级类目未在 v1 展开"
+    },
+    {
+      "standard": "GB/T 2260",
+      "use": "地名/行政区划"
+    },
+    {
+      "standard": "GB/T 2659",
+      "use": "地名/国外地名"
+    },
+    {
+      "standard": "《通用规范汉字表》",
+      "use": "单字与字形边界，8,105 字"
+    },
+    {
+      "standard": "项目调研",
+      "use": "下里巴人 8 类与子类目提案",
+      "excluded": "来源平台类目体系不进入本契约"
+    }
+  ]
+}

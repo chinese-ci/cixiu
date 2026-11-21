@@ -1,0 +1,27 @@
+{
+  "standard_chars": 8105,
+  "table_standards": 3120,
+  "traditional_occurrences": 2574,
+  "variant_groups": 794,
+  "variant_occurrences": 1021,
+  "variant_occurrences_official": 1023,
+  "notes": 52,
+  "unique_rules": 3575,
+  "scope_rules": 39,
+  "drop_rules": 19,
+  "note_drop_rules": 13,
+  "unresolved_multi_map_rules": 6,
+  "direct_promoted": [
+    "皙",
+    "瞋",
+    "噘",
+    "蹚",
+    "凓",
+    "勠"
+  ],
+  "schema_version": 1,
+  "source": "https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8?oldid=12868282",
+  "known_gaps": [
+    "官方说明写 794 组共 1,023 个异体字；维基文库页面转录为 794 组 1,021 个，少 2 字。缺字不进入映射表，遇到时保持原字并交由后续编码处理；Unicode 兼容汉字按表外丢弃。"
+  ]
+}
